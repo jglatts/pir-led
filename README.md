@@ -1,7 +1,7 @@
-# pir-led
+# PIR-LED
 RaspberryPi PIR Sensor with LED
 Simple to hook up, fun to use!
 
-# Wiring
+Wiring
 PIR-Output-Pin = 11
 LED-PIN = 13
