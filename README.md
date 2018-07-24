@@ -6,4 +6,5 @@ Simple to hook up, fun to use!
 Wiring
 <br>
 PIR-Output-Pin = 11
+<br>
 LED-PIN = 13
