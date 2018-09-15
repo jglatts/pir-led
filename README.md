@@ -9,5 +9,3 @@ PIR-Output-Pin = 11
 <br>
 LED-PIN = 13
 
-
-# Details on the way!
